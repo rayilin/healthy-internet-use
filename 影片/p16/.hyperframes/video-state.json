@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "historyId": "a113beea-3e7a-4c9a-babe-624baef20857",
+  "currentRevision": "71ce690f-aaeb-4428-9521-03c4b45e7ede",
+  "pendingChanges": false,
+  "files": {
+    "index.html": {
+      "hash": "b6d44caf51f86adac6a67062032d91f2aace3e99329d99666641c0841522a7da",
+      "content": "C:\\Users\\rayi\\.cache\\hyperframes\\history\\a113beea-3e7a-4c9a-babe-624baef20857\\blobs\\b6\\b6d44caf51f86adac6a67062032d91f2aace3e99329d99666641c0841522a7da"
+    },
+    "vo.mp3": {
+      "hash": "b6cc2780c2a84ef76a64973bd9cfdd38af183dbaab741a824c608baeb9b62b1e",
+      "content": "C:\\Users\\rayi\\.cache\\hyperframes\\history\\a113beea-3e7a-4c9a-babe-624baef20857\\blobs\\b6\\b6cc2780c2a84ef76a64973bd9cfdd38af183dbaab741a824c608baeb9b62b1e"
+    }
+  },
+  "revisions": {
+    "71ce690f-aaeb-4428-9521-03c4b45e7ede": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1794277547619,
+      "endedAt": 1794277547621,
+      "files": {
+        "index.html": {
+          "before": "C:\\Users\\rayi\\.cache\\hyperframes\\history\\a113beea-3e7a-4c9a-babe-624baef20857\\blobs\\cf\\cf665be2121c2bf80849f9015dec2986d29fbda3a9b8cdd8aa9a956447deb76e",
+          "after": "C:\\Users\\rayi\\.cache\\hyperframes\\history\\a113beea-3e7a-4c9a-babe-624baef20857\\blobs\\b6\\b6d44caf51f86adac6a67062032d91f2aace3e99329d99666641c0841522a7da"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": {
+      "revision": "71ce690f-aaeb-4428-9521-03c4b45e7ede",
+      "id": "5ad89dbc-02c3-4ad1-86aa-b13f64459543-2"
+    },
+    "revisions": {
+      "71ce690f-aaeb-4428-9521-03c4b45e7ede": [
+        {
+          "scope": "full",
+          "id": "5ad89dbc-02c3-4ad1-86aa-b13f64459543-0",
+          "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\11cc967c-f894-469c-ba14-e3a609b6ccd0\\frame-00-at-5s.png",
+          "time": 5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [
+              "Fonts failed: PingFang TC (normal normal)"
+            ],
+            "partial": true
+          },
+          "createdAt": 1794277550035,
+          "contentHash": "64b57ebf59a0e35cf211fbd6a35fa463729a1efe745b2ab66f963f4bb46b086d",
+          "revision": "71ce690f-aaeb-4428-9521-03c4b45e7ede",
+          "inputFingerprint": "a9b8ada29a1fc2cdeb631597b7a96da73cc081ad0ee72daf3fb2f845c24cb91c",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "5ad89dbc-02c3-4ad1-86aa-b13f64459543-1",
+          "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\11cc967c-f894-469c-ba14-e3a609b6ccd0\\frame-01-at-9s.png",
+          "time": 9,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [
+              "Fonts failed: PingFang TC (normal normal)"
+            ],
+            "partial": true
+          },
+          "createdAt": 1794277550035,
+          "contentHash": "af1ad96cab46291459cf7ef9e1a5d5ba66a57f1d57e51f5c97cb63296d0f7a74",
+          "revision": "71ce690f-aaeb-4428-9521-03c4b45e7ede",
+          "inputFingerprint": "a9b8ada29a1fc2cdeb631597b7a96da73cc081ad0ee72daf3fb2f845c24cb91c",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "5ad89dbc-02c3-4ad1-86aa-b13f64459543-2",
+          "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\11cc967c-f894-469c-ba14-e3a609b6ccd0\\frame-02-at-15.09s.png",
+          "time": 15.09,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [
+              "Fonts failed: PingFang TC (normal normal)"
+            ],
+            "partial": true
+          },
+          "createdAt": 1794277550035,
+          "contentHash": "74a4e4ba1466042a144ed2d02a701eeb411f60ab9d777245c271157276e7a55e",
+          "revision": "71ce690f-aaeb-4428-9521-03c4b45e7ede",
+          "inputFingerprint": "a9b8ada29a1fc2cdeb631597b7a96da73cc081ad0ee72daf3fb2f845c24cb91c",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": [
+      {
+        "scope": "full",
+        "id": "f36b5291-088c-4608-b936-f8a8e04e8fb4-0",
+        "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\834aa90c-481f-45c6-91c6-72751ae019e2\\frame-00-at-3s.png",
+        "time": 3,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [
+            "Fonts failed: PingFang TC (normal normal)"
+          ],
+          "partial": true
+        },
+        "createdAt": 1794277488931,
+        "contentHash": "551ec18b3eb90cbe350606ef5e5c99d829e41118ae75e78a5630addfbf60f192",
+        "revision": null,
+        "inputFingerprint": "48d3136f620c335356d996698d48dd4e1911816652a2ddc83e7d641cb3aa9830",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "f36b5291-088c-4608-b936-f8a8e04e8fb4-1",
+        "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\834aa90c-481f-45c6-91c6-72751ae019e2\\frame-01-at-7s.png",
+        "time": 7,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [
+            "Fonts failed: PingFang TC (normal normal)"
+          ],
+          "partial": true
+        },
+        "createdAt": 1794277488931,
+        "contentHash": "6139bda80e017fdea9fdae1c0121f8aaf778a8a00df57feaa485b5c037f512e3",
+        "revision": null,
+        "inputFingerprint": "48d3136f620c335356d996698d48dd4e1911816652a2ddc83e7d641cb3aa9830",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "f36b5291-088c-4608-b936-f8a8e04e8fb4-2",
+        "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\834aa90c-481f-45c6-91c6-72751ae019e2\\frame-02-at-11s.png",
+        "time": 11,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [
+            "Fonts failed: PingFang TC (normal normal)"
+          ],
+          "partial": true
+        },
+        "createdAt": 1794277488931,
+        "contentHash": "c621a4ec76235f8da56b0d5039be30640e7f3b620bab3195f0993a17aa2f1ad5",
+        "revision": null,
+        "inputFingerprint": "48d3136f620c335356d996698d48dd4e1911816652a2ddc83e7d641cb3aa9830",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "f36b5291-088c-4608-b936-f8a8e04e8fb4-3",
+        "image": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\影片\\p16\\.hyperframes\\artifacts\\snapshots\\834aa90c-481f-45c6-91c6-72751ae019e2\\frame-03-at-15.09s.png",
+        "time": 15.09,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [
+            "Fonts failed: PingFang TC (normal normal)"
+          ],
+          "partial": true
+        },
+        "createdAt": 1794277488931,
+        "contentHash": "46d013ebd3664120f0dfcf613d9ddf3920dc2153ed397db7252f2d305c3a816e",
+        "revision": null,
+        "inputFingerprint": "48d3136f620c335356d996698d48dd4e1911816652a2ddc83e7d641cb3aa9830",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "renders": {
+    "latest": {
+      "id": "18a615d5-d413-4b04-a9e1-1514cbff472f",
+      "completedAt": 1794277694459,
+      "output": "C:\\Users\\rayi\\Documents\\健康與體育教學專欄\\網路不沉迷\\教學網頁\\media\\p16.mp4",
+      "status": "completed",
+      "revision": "71ce690f-aaeb-4428-9521-03c4b45e7ede"
+    },
+    "retainedRevisions": [
+      "71ce690f-aaeb-4428-9521-03c4b45e7ede"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}
